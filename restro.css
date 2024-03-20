@@ -1,0 +1,32 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+
+body {
+background-image: url('backimg.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+color: aliceblue;
+margin: 15px 30px;
+font-size: 25px;
+padding: 8px;
+}
+
+h1 {
+    background-color: yellow;
+    margin-left: auto;
+    color: black;
+
+}
+
+button{
+    background-color:aqua;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
